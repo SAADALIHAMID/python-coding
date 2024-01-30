@@ -1,2 +1,3 @@
 # python-coding
-This is my first Git_Hub repository.author Saadali.
+This is my first Git_Hub repository.
+author Saadali.
